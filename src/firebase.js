@@ -4,7 +4,7 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getFirestore, doc, setDoc } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAHExHfMDRu2lVecgYxgW86TXDF-dvsWrY",
+  apiKey: "api_key",
   authDomain: "personal-finance-tracker-ec56e.firebaseapp.com",
   projectId: "personal-finance-tracker-ec56e",
   storageBucket: "personal-finance-tracker-ec56e.appspot.com",
